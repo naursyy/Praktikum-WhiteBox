@@ -46,8 +46,7 @@ whitebox-testing-lab/
 1. Pastikan **Java 21+** dan **Maven** sudah terinstal.
 2. Clone repository:
 ```bash
-git clone [URL_REPOSITORY]
-cd whitebox-testing-lab
+git clone https://github.com/naursyy/Praktikum-WhiteBox.git
 ```
 3. Install dependencies:
 ```bash
